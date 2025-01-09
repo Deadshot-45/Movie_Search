@@ -1,0 +1,23 @@
+.search-box{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.search-bar{
+    width: 250px;
+    height: 40px;
+    padding: 8px 15px;
+    outline: none;
+    border: none;
+    color: #e7e9f0;
+    background-color: #a592f2;
+    border-radius: 50px;
+    box-shadow: 0 0 5px #ffffff80;
+}
+
+.search-bar::placeholder{
+    color: #e7e9f0;
+}
