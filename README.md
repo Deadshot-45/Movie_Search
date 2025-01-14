@@ -13,4 +13,4 @@ This is a practice project developed using ReactJS and styled with Tailwind CSS,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-search-page.git
+   git clone https://github.com/Deadshot-45/movie-search-page.git
